@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Olympique Marseille",
+        "colors": "white;blue",
+        "logo": "..."
+    },
+    {
+        "title": "Paris St-Germain",
+        "colors": "black/white",
+        "logo": "..."
+    },
+    {
+        "title": "FC Barcelona",
+        "colors": "blue/red",
+        "logo": "..."
+    },
+    {
+        "title": "Manchester-united",
+        "colors": "black/white",
+        "logo": "..."
+    }
+]
